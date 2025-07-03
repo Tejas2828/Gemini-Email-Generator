@@ -1,0 +1,5 @@
+# Ignore the local secrets file
+.streamlit/secrets.toml
+
+# Ignore any old .env files
+.env

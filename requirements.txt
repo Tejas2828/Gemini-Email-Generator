@@ -1,0 +1,6 @@
+streamlit
+pandas
+google-generativeai
+requests
+beautifulsoup4
+openpyxl
